@@ -12,22 +12,35 @@ const About = () => {
                     <p className='uppercase text-xl tracking-widest text-[#5651e5]'>
                 
                     </p>
-            <h2 className='py-4'>Who I Am</h2>
-            <p className='py-2 text-gray-600'>
+            <h2 className='py-4 text-[#EE882F] font-bold'>Who I Am</h2>
+            <p className='py-2 font-bold'>
+                Description of skills here                 Description of skills here
                 Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+                Description of skills here
+
             </p>
-            <p className='py-2 text-gray-600'>
+            <p className='py-2 font-bold'>
+            Description of skills here                Description of skills here
+            Description of skills here
+            Description of skills here
+            Description of skills here
+            Description of skills here
+            Description of skills here
+            Description of skills here
+            Description of skills here
             Description of skills here
 
             </p>
-            <Link href='/#projects'>
-            <p className='py-2 text-gray-600 underline cursor-pointer'>
-                Check out some of my latest projects.
-            </p>
-            </Link>
         </div>
-        <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-            <Image src={AboutImg} className='rounded-xl' alt='/' />
+        <div className='w-[650px] h-[650px] shadow-xl shadow-gray-400 rounded-xl flex  justify-center p-2 hover:scale-105 ease-in duration-300'>
+            <Image src={AboutImg} className=' w-[550px] h-[550px] rounded-xl' alt='/' />
             </div>
         </div>
     </div>);
