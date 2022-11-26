@@ -15,7 +15,7 @@ const Projects = () => {
     
         </p>
         <h2 className='pb-8 text-[#B57B49]'>What I've Built</h2>
-        <div className='grid md:grid-cols-2 gap-10'>
+        <div className='grid md:grid-cols-2 gap-12'>
         
         <ProjectItem
             title='NFL Stat-Trak'

@@ -10,33 +10,14 @@ const About = () => {
             <div className='max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
                 <div className='col-span-2'>
                     <p className='uppercase text-xl tracking-widest text-[#5651e5]'>
-                
                     </p>
-            <h2 className='py-4 text-[#EE882F] font-bold'>Who I Am</h2>
+            <h2 className='py-4 text-[#EE882F] font-bold'>A Bit About Me</h2>
             <p className='py-2 font-bold'>
-                Description of skills here                 Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
-                Description of skills here
+            I spent the last 6 years in Technical Support as a Supervisor and Trainer in the Telehealth Field. While managing a team of around 70-100 agents I created hundreds of Sharepoint pages for the agents to reference, and that is where I first saw the power of coding. Frustrated with the restrictions of working with a tool like Sharepoint, I researched ways to maximize it's use. I found a few scripts that allowed me to change the web parts to display information to agents and this method soon became the gold-standard for our call-center. After seeing the impact of a few simple scripts, I was quickly drawn into diving further into "Real" Web Development.
 
             </p>
             <p className='py-2 font-bold'>
-            Description of skills here                Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-            Description of skills here
-
+            After 6 years of being the "Budget I.T. Guy" I decided to enroll in Flatiron School's Web Development Course in June of 2022. Through the 4 month program I learned Javascript, React and Ruby on Rails and since graduation in September I've also gained experience in Next.JS and Tailwind CSS. Going through a program like the one at Flatiron really helped me "Learn how to learn" when it comes to picking up languages and I'm eager to continue to add to those skills. 
             </p>
         </div>
         <div className='w-[650px] h-[650px] shadow-xl shadow-gray-400 rounded-xl flex  justify-center p-2 hover:scale-105 ease-in duration-300'>
