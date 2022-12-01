@@ -42,7 +42,13 @@ const Main = () => {
                             <AiOutlineMail onClick={() => window.location = 'mailto:JBuren1957@gmail.com'} size={40}/>
                         </div>
                         <div className='bg-[#B57B49] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                        <a
+                            href='https://1drv.ms/b/s!AkBwWW2yMBcShBU4VtHkVVxqlgvy?e=dLkriC'
+                            target='_blank'
+                            rel='noreferrer'
+                        >
                             <BsFillPersonLinesFill size={40}/>
+                            </a>
                         </div>
                     </div>
                 </div>
