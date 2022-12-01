@@ -31,7 +31,7 @@ const fastcare = () => {
         I built this app to demonstrate knowledge working in React JS and.....
     </p>
     <a
-        href='https://github.com/'
+        href='https://github.com/JCBuren/FastCare'
         target='_blank'
         rel='noreferrer'
     >

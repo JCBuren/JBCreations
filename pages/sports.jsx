@@ -30,7 +30,7 @@ const sports = () => {
             I built this app to demonstrate knowledge working in React JS...
         </p>
         <a
-            href='https://github.com/'
+            href='https://github.com/JCBuren/Phase-4-Mono'
             target='_blank'
             rel='noreferrer'
         >
