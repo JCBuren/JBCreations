@@ -18,8 +18,8 @@ const nfl = () => {
         alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-        <h2 className='py-2'>Crypto App</h2>
-        <h3>React JS / Tailwind / Firebase</h3>
+        <h2 className='py-2'>NFL Stat-Trak</h2>
+        <h3>React JS / CSS</h3>
         </div>
     </div>
 
@@ -39,14 +39,14 @@ const nfl = () => {
             package. This application was built using the Coin Gecko API.
         </p>
         <a
-            href='https://github.com/fireclint/crypto-react-firebase'
+            href='https://github.com/'
             target='_blank'
             rel='noreferrer'
         >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
         </a>
         <a
-            href='https://cryptobase-yt.web.app/'
+            href='/'
             target='_blank'
             rel='noreferrer'
         >
@@ -62,16 +62,13 @@ const nfl = () => {
                 <RiRadioButtonFill className='pr-1' /> React
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
-            </p>
-            <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Javascript
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Firebase
+                <RiRadioButtonFill className='pr-1' /> SQLite
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Coin Gecko API
+                <RiRadioButtonFill className='pr-1' /> CSS
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Routes
