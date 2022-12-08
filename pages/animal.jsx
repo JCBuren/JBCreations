@@ -27,7 +27,7 @@ const animal = () => {
         <p>Project</p>
         <h2>Overview</h2>
         <p>
-           
+        This app is called 605 Animal Rescue, a Humane society application inspired by my 3 rescue animals. I built this app using React, Ruby on Rails and CSS for styling. Users can create an account and sign in to setup a visit with an available animal. This authentication is being handled using the Ruby Gem BCrypt, and I've also used the Faker Gem to help generate seed data.  
         </p>
         <a
             href='https://github.com/JCBuren/Capstone'
