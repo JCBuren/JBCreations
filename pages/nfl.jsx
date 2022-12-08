@@ -28,7 +28,7 @@ const nfl = () => {
         <p>Project</p>
         <h2>Overview</h2>
         <p>
-            I built this app to demonstrate knowledge working in React JS...
+            I built this application using React JS and CSS for styling. NFL Stat-Trak allows users to track historical Win-Loss records for every NFL Team. Users are also able to input data to fill in any team data that is not already reflected in the database, this data is then persisted by leveraging SQLite.
         </p>
         <a
             href='https://github.com/JCBuren/NFL-StatTrak'
@@ -54,7 +54,7 @@ const nfl = () => {
                 <RiRadioButtonFill className='pr-1' /> React
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Javascript
+                <RiRadioButtonFill className='pr-1' /> JavaScript
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> SQLite

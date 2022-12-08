@@ -27,7 +27,7 @@ const sports = () => {
         <p>Project</p>
         <h2>Overview</h2>
         <p>
-            I built this app to demonstrate knowledge working in React JS...
+            This application was built using React, Ruby on Rails, and CSS for styling. Users can create an account and login to signup for an Intramural sports league of their choice. A few of the Ruby Gems used were BCrypt for authentication & Faker to help generate seed data. 
         </p>
         <a
             href='https://github.com/JCBuren/Phase-4-Mono'

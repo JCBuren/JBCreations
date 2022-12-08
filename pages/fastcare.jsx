@@ -28,7 +28,7 @@ const fastcare = () => {
     <p>Project</p>
     <h2>Overview</h2>
     <p>
-        I built this app to demonstrate knowledge working in React JS and.....
+        FastCare Telehealth is an application I built using a React front-end, Ruby on Rails back-end and is styled with CSS. This application is a prospective Telehealth platform that would allow a user see a Doctor online 24/7. Client-side routing was created using React Router and I also used SQLite to assist with data persistence.
     </p>
     <a
         href='https://github.com/JCBuren/FastCare'

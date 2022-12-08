@@ -79,7 +79,7 @@ export const Skills = () => {
         
         
 
-        <div className='bg-[#EE882F] text-xl p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+        <div className='bg-[#B57B49] text-xl p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
         <div className='grid grid-cols-2 gap-4 justify-center items-center'>
             <div className='m-auto'>
             <Image src={Github} width='64px' height='64px' alt='/' />
@@ -89,7 +89,7 @@ export const Skills = () => {
             </div>
         </div>
         </div>
-        <div className='bg-[#EE882F] text-xl p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+        <div className='bg-[#B57B49] text-xl p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
         <div className='grid grid-cols-2 gap-4 justify-center items-center'>
             <div className='m-auto'>
             <Image src={NextJS} width='64px' height='64px' alt='/' />

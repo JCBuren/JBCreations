@@ -71,12 +71,12 @@ const Contact = () => {
                     </div>
                 </a>
 
-                <div className='bg-[#EE882F] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                <div className='bg-[#B57B49] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail onClick={() => window.location = 'mailto:JBuren1957@gmail.com'} size={30}/>
                 </div>
                 <Link href='/resume'>
                     <a>
-                    <div className='bg-[#EE882F] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                    <div className='bg-[#B57B49] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                         <BsFillPersonLinesFill size={30}/>
                     </div>
                     </a>
