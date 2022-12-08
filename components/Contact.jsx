@@ -5,7 +5,7 @@ import { AiOutlineMail } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
-import ContactImg from '../public/assets/photorefs/contact.jpg';
+import HeadshotImg from '../public/assets/photorefs/Headshot.png';
 import emailjs from '@emailjs/browser';
 
 
@@ -36,8 +36,8 @@ const Contact = () => {
             <div className='lg:p-4 h-full '>
                 <div>
                 <Image
-                className='rounded-xl hover:scale-105 ease-in duration-300'
-                src={ContactImg}
+                className='rounded-xl scale-120 hover:scale-105 ease-in duration-300'
+                src={HeadshotImg}
                 alt='/'
                 />
                 </div>
