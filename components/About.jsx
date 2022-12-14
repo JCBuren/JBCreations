@@ -17,7 +17,7 @@ const About = () => {
 
             </p>
             <p className='py-2 font-bold'>
-            After 6 years of being the "Budget I.T. Guy" I decided to enroll in Flatiron School's Web Development Course in June of 2022. Through the 4 month program I learned Javascript, React and Ruby on Rails and since graduation in September I've also gained experience in Next.JS and Tailwind CSS. Going through a program like the one at Flatiron really helped me "Learn how to learn" when it comes to picking up languages and I'm eager to continue to add to those skills. 
+            After some consideration, I decided to enroll in Flatiron School's Web Development Course in June of 2022. Through the 4 month program I learned Javascript, React and Ruby on Rails and since graduation in September I've also gained experience in Next.JS and Tailwind CSS. Going through a program like the one at Flatiron really helped me "Learn how to learn" when it comes to picking up languages and I'm eager to continue to add to those skills. 
             </p>
         </div>
         <div className='w-[650px] h-[650px] shadow-xl shadow-gray-400 rounded-xl flex  justify-center p-2 hover:scale-105 ease-in duration-300'>
