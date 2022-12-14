@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 
 const Main = () => {
     return (
-        <div id='home' className='w-full h-screen text-center flex justify-center'>
+        <div id='home' className='w-full h-screen text-center '>
             <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex items-center'>
                 <div>
                     <h1 className='py-4'>
@@ -17,7 +17,7 @@ const Main = () => {
                     <p className='font-bold py-8 max-w-[70%] m-auto'>
                     I&#39;m a full stack web developer with experience in JavaScript, React, Ruby on Rails, CSS, as well as Next.JS and Tailwind. My passion has always been helping people, and learning the many ways you can leverage responsive front-end technologies has given me a fresh perspective on ways I can do just that.
                     </p>
-                    <div className=' flex items-center justify-between max-w-[580px] m-auto py-8'>
+                    <div className=' flex justify-between max-w-[580px] m-auto py-8'>
                         <div className='bg-[#B57B49] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                             
                         <a  
