@@ -11,7 +11,7 @@ const About = () => {
                 <div className='col-span-2'>
                     <p className='uppercase text-xl tracking-widest text-[#5651e5]'>
                     </p>
-            <h2 className='py-4 text-[#B57B49] font-bold'>A Bit About Me</h2>
+            <h2 className='py-4 text-[#D6801E] font-bold'>A Bit About Me</h2>
             <p className='py-2 font-bold'>
             I spent the last 6 years in Technical Support as a Supervisor and Trainer in the Telehealth Field. While managing a team of around 70-100 agents I created hundreds of Sharepoint pages for the agents to reference, and that is where I first saw the power of coding. Frustrated with the restrictions of working with a tool like Sharepoint, I researched ways to maximize it&#39;s use. I found a few scripts that allowed me to change the web parts to display information to agents and this method soon became the gold-standard for our call-center. After seeing the impact of a few simple scripts, I was quickly drawn into diving further into &#34;Real&#34; Web Development.
 
