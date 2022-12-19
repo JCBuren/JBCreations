@@ -15,7 +15,7 @@ const Main = () => {
                         A Full-Stack Web Developer
                     </h1>
                     <p className='py-4 sm:max-w-[70%] m-auto'>
-                    I&#39;m a full stack web developer with experience in JavaScript, React, Ruby on Rails, CSS, as well as Next.JS and Tailwind. My passion has always been helping people, and learning the many ways you can leverage responsive front-end technologies has given me a fresh perspective on ways I can do just that.
+                        Full-Stack software developer with a background in technical support and training. My passion has always been helping people, and the unlimited tools available to you as a developer has given me a new perspective on how to pursue that passion. I&#39;m currently focused on building responsive front-end applications while learning new back-end technologies.
                     </p>
                     <div className=' flex justify-between max-w-[580px] m-auto py-8'>
                         <div className='bg-[#D6801E] rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>

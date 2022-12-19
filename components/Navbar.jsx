@@ -121,8 +121,8 @@ return (
                         <a>
                         <Image
                             src={NavLogo}
-                            width='125'
-                            height='125'
+                            width='175'
+                            height='175'
                             alt='/'
                         />
                         </a>
@@ -134,14 +134,15 @@ return (
             <AiOutlineClose />
                 </div>
                 </div>
-                <div className='border-b border-gray-300 my-4'>
-                    <p className='w-[85%] md:w-[90%] py-4'>
-                        Let&#39;s build something legendary together
+                <div className='border-b border-gray-300'>
+                    <p className='w-[85%] md:w-[90%] py-4 font-bold'>
+                        Improbable doesn&#39;t always mean impossible.
+
                     </p>
                 </div>
             </div>
-            <div className='py-4 flex flex-col'>
-                <ul className='uppercase'>
+            <div className='py-2 flex flex-col'>
+                <ul className='uppercase font-bold'>
                     <Link href='/'>
                         <li onClick={() => setNav(false)} className='py-4 text-sm'>
                         Home
@@ -173,9 +174,9 @@ return (
                         </li>
                     </Link>
                     </ul>
-                    <div className='pt-40'>
-                        <p className='uppercase tracking-widest text-[#5651e5]'>
-                        Let&#39;s Connect
+                    <div className='pt-36'>
+                        <p className='uppercase text-center tracking-widest text-[#5651e5]'>
+                        My Links
                         </p>
                     <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                         <a
@@ -183,8 +184,8 @@ return (
                         target='_blank'
                         rel='noreferrer'
                         >
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaLinkedinIn />
+                    <div className='bg-[#D6801E] rounded-full shadow-lg shadow-gray-400 mx-2 p-4 cursor-pointer hover:scale-105 ease-in duration-300'>
+                        <FaLinkedinIn size={30}/>
                         </div>
                         </a>
                         <a
@@ -192,24 +193,24 @@ return (
                         target='_blank'
                         rel='noreferrer'
                         >
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaGithub />
+                    <div className='bg-[#D6801E] rounded-full shadow-lg shadow-gray-400 mx-2 p-4 cursor-pointer hover:scale-105 ease-in duration-300'>
+                        <FaGithub size={30}/>
                     </div>
                         </a>
                         <Link href='/#contact'>
                         <div
                         onClick={() => setNav(!nav)}
-                        className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
+                        className='bg-[#D6801E] rounded-full shadow-lg shadow-gray-400 mx-2 p-4 cursor-pointer hover:scale-105 ease-in duration-300'
                         >
-                        <AiOutlineMail />
+                        <AiOutlineMail onClick={() => window.location = 'mailto:JBuren1957@gmail.com'} size={30}/>
                         </div>
                         </Link>
                         <Link href='/resume'>
                         <div
                             onClick={() => setNav(!nav)}
-                            className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
+                            className='bg-[#D6801E] rounded-full shadow-lg shadow-gray-400 mx-2 p-4 cursor-pointer hover:scale-105 ease-in duration-300'
                         >
-                            <BsFillPersonLinesFill />
+                            <BsFillPersonLinesFill size={30}/>
                         </div>
                         </Link>
                     </div>
