@@ -83,7 +83,7 @@ return (
                     <Link href='/#projects'>Projects</Link>
                 </li>
                 <li className='text-[#D6801E] font-bold text-md ml-10 uppercase hover:border-b'>
-                    <Link href='/resume'>Resume</Link>
+                    <Link href='https://docs.google.com/document/d/e/2PACX-1vT-VWKp9LoUHsNDwSog7AEnXUeSIwgrTPSCRQm6_6Yzx2Zty00GLN_UbWnnD_DvDZmsjiV9keAnEDYC/pub'>Resume</Link>
                 </li>
                 <li className='text-[#D6801E] font-bold text-md ml-10 uppercase hover:border-b'>
                     <Link href='/#contact'>Contact</Link>
@@ -163,11 +163,16 @@ return (
                         Projects
                         </li>
                     </Link>
-                    <Link href='/resume'>
+                    <div>
+                    <a 
+                    href='https://docs.google.com/document/d/e/2PACX-1vT-VWKp9LoUHsNDwSog7AEnXUeSIwgrTPSCRQm6_6Yzx2Zty00GLN_UbWnnD_DvDZmsjiV9keAnEDYC/pub'
+                    target='_blank'
+                    rel='noreferrer'>
                         <li onClick={() => setNav(false)} className='py-4 text-sm'>
                         Resume
                         </li>
-                    </Link>
+                    </a>
+                    </div>
                     <Link href='/#contact'>
                         <li onClick={() => setNav(false)} className='py-4 text-sm'>
                         Contact
