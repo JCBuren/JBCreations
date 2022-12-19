@@ -41,7 +41,7 @@ const sports = () => {
             target='_blank'
             rel='noreferrer'
         >
-            <button className='px-8 py-2 mt-4'>Demo</button>
+            {/* <button className='px-8 py-2 mt-4'>Demo</button> */}
         </a>
 
         </div>
